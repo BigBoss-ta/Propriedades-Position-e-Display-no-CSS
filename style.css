@@ -1,16 +1,17 @@
 .background {
+    padding: 20px;
     border-color: #fe3f3f;
 }
 
 .cube {
-    width: 200px;
-    height: 200px;
+    padding: 20px;
+    margin: 10px;
     color: #0066bf;
 }
 
 .blank {
-    width: 200px;
-    height: 200px;
+    padding: 20px;
+    margin: 10px;
     background-color: transparent;
 }
 
