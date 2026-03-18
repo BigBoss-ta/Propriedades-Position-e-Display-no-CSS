@@ -6,8 +6,13 @@
 .example p {
   background-color: rgb(75, 75, 188);
   padding: 10px;
-  margin: 20px;  
-  display:list-item;
+  margin: 20px;
+}
+
+.example span {
+  background-color: red;
+  padding: 10px;  
+  color: white;
 }
 
 
