@@ -1,0 +1,53 @@
+.background {
+    border-color: #fe3f3f;
+}
+
+.cube {
+    width: 200px;
+    height: 200px;
+    color: #0066bf;
+}
+
+.blank {
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+}
+
+.block {
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.flex {
+    display: flex;
+}
+
+.inline-flex {
+    display: inline-flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.inline-grid {
+    display: inline-grid;
+}
+
+.flow-root {
+    display: flow-root;
+}
+
+.table {
+    display: table;
+}
+
+
