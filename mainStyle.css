@@ -5,6 +5,8 @@
     border: 0px;
     margin: 0px;
     text-align: center;
+    border-width: 0px 0px 0px 0px;
+    border-color: #333;
     font-family: jetbrains mono, monospace;
 }
 
@@ -18,7 +20,7 @@
     margin-right: auto;
 }
 
-.text {
+.section {
     background-color: rgb(97, 199, 136);
     padding: 20px;
     border-radius: 20px;
@@ -36,4 +38,11 @@
     margin-left: auto;
     margin-right: auto;
     font-family: jetbrains mono, monospace;
+}
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: jetbrains mono, monospace;
+
 }
