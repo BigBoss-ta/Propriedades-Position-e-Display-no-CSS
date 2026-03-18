@@ -1,20 +1,31 @@
+body {
+    background-color: rgb(104, 118, 131);
+}
+
 
 .background {
-    padding: 10px;
-    color: #fe3f3f;
+    padding: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 120px;
+    background-color: rgb(125, 111, 251);
 }
 
 .cube {
-    padding: 20px;
-    margin: 10px;
-    border: 2px solid #fe3f3f;
-    background-color: #0066bf;
+  height:300px;
+  background-color:#FFFFFF;
 }
 
-.blank {
-    padding: 20px;
-    margin: 10px;
-    background-color: transparent;
+.cube p {
+  background-color: blue;
+  padding: 10px;
+  margin: 20px; 
+}
+
+.cube span {
+  background-color: red;
+  padding: 10px;  
+  color: white;
 }
 
 .block {
