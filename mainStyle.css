@@ -5,6 +5,7 @@
     border: 0px;
     margin: 0px;
     text-align: center;
+    font-family: jetbrains mono, monospace;
 }
 
 .examples {
@@ -25,15 +26,14 @@
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
+    font-family: jetbrains mono, monospace;
 }
 
-.example p {
-    font-family: 'Times New Roman', Times, serif;
-}
 
 .title {
     text-align: center;
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
+    font-family: jetbrains mono, monospace;
 }
